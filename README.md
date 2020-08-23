@@ -27,3 +27,5 @@ Demo runs here : [https://yeminyi.github.io/task-manager/](https://yeminyi.githu
 4. `npm install`
 5. `npm start` to start the front-end project and json-server ，then visit `http://localhost:8000`(If run at local using json-server,please change the BASE_CONFIG to `http://localhost:3002`)
 6. `npm run start:ssr` start SSR version (Server Side Rendering）
+7. `ng build --prod` to build
+8. if deploy to Azure,need to add the Web.config to read the `en.json`. pls refer `https://docs.microsoft.com/en-us/archive/blogs/africaapps/how-to-serve-static-json-files-from-a-windows-azure-website`
