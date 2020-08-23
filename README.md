@@ -1,6 +1,6 @@
 # Multi-User Task Manager System
 
-Demo runs here : [https://yeminyi.github.io/task-manager/](https://yeminyi.github.io/task-manager/)
+Demo runs here : [https://taskmanager2020.azurewebsites.net/](https://taskmanager2020.azurewebsites.net/)
 
 ## Tech stack
 
